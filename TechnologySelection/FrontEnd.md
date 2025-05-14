@@ -1,9 +1,9 @@
-# Frontend stack 
+# Frontend stack & justifications 
 
 
 ## **React.js** ## 
 
-## Why? ## 
+## Why ? ## 
 - I selected react.js due to the fact that it has peaked my curiosity.
   After reading many articles ,I have come to the conclusion that React.js is highly interactive, 
   it also offer a side of maintainability and efficiency when it come to web applications.
