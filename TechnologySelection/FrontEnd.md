@@ -1,4 +1,4 @@
-# Front end selection 
+# Frontend stack 
 
 
 ## **React.js** ## 
