@@ -5,7 +5,8 @@
 
 
 ## Project requirement 
-
+This part of the project twill be split into 3 Which will highlight the information gathered through research, 
+the detailed requirements and the display of the functionaly.
 
 ### Project plan 
 
